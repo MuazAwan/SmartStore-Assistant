@@ -29,8 +29,8 @@ This repository contains a robust chatbot system designed for store management, 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/MuazAwan/chatbot-store-management.git
-   cd chatbot-store-management
+   git clone https://github.com/MuazAwan/smartstore-assistant.git
+   cd smartstore-assistant
    ```
 
 2. Create a virtual environment:
@@ -109,38 +109,11 @@ This repository contains a robust chatbot system designed for store management, 
 }
 ```
 
-## Tips for Uploading to GitHub
-
-1. **Use `.gitignore`**:
-   - Add sensitive files like `.env` to `.gitignore`.
-   - Example:
-     ```
-     .env
-     __pycache__/
-     *.pyc
-     *.log
-     ```
-
-2. **Write a Clear README**:
-   - Include installation instructions, usage examples, and project details.
-
-3. **Add a License**:
-   - Although not provided here, you can create a license at any time.
-
-4. **Provide Examples**:
-   - Add sample requests and responses in the README.
-
-5. **Documentation**:
-   - Use docstrings and comments within the code for clarity.
-   - Optionally, generate documentation using tools like Sphinx.
-
-6. **CI/CD**:
-   - Set up continuous integration with GitHub Actions to automate tests.
-
 ## Contributing
 
 Contributions are welcome! Please fork this repository, create a new branch, and submit a pull request with your changes.
 
 ## License
 
-This project does not currently include a license file. You can add one to define the terms of use for your project.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
